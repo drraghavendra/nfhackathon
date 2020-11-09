@@ -1,4 +1,8 @@
-# GoodDocData -- A Template for Simple and Clear Documentation of Hackathon Analyses!
+
+# NF Knowledge Explorer
+
+NF Hackathon project 2020 
+[Project Overview](https://nfhack-platform.bemyapp.com/#/projects/5f7fd37aed4283001b7bcd66aea32de67cd3ec908f71ce35e94b667748f45006!)
 
 *adapted from [NCBI-Hackathons/GoodDoc](https://github.com/NCBI-Hackathons/GoodDoc) with some tweaks for analysis-driven projects*
 
@@ -46,5 +50,7 @@ Instructions for running the following notebooks: *be sure to adjust these instr
 2. `docker run <your dockerhub repo>/<this container>` Run the docker image from the master shell script
 
 ### Important Resources *: primary data, github repository, Synapse project, dockerfile link etc.*
+
+
 
 
