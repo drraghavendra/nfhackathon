@@ -10,7 +10,7 @@ NF Hackathon project 2020
 
 *most fields are optional, Conclusion and Important Resources are required*
 
-## Please cite our work -- here is the ICMJE Standard Citation:
+## Please cite our work -- here is the ICMJE Standardized Citation:
 
 ### ...and a link to the DOI: *You can make a free DOI with zenodo, synapse, figshare, or other resources <link>*
 
